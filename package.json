@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Soares Chen",
+    "email": "soares.chen@gmail.com",
+    "url": "http://soareschen.com"
+  },
+  "name": "quiver-pipe-stream",
+  "desription": "Utility for piping a quiver read stream to a write stream",
+  "version": "0.0.1",
+  "homepage": "https://github.com/quiverjs/pipe-stream",
+  "repository": {
+    "url": "git@github.com:quiverjs/pipe-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quiverjs/pipe-stream/issues",
+    "email": "quiverjs@soareschen.com"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/quiverjs/license/master/LICENSE"
+  },
+  "main": "./lib/pipe-stream"
+}
